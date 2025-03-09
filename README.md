@@ -9,7 +9,7 @@ For a detailed overview of the project, you can refer to the project presentatio
 
 AI-powered-Resume-Screening-and-Ranking-System-PPT.pptx
 
-#🚀 Features
+# 🚀 Features
 * Resume Screening: Automatically screen resumes based on the provided job description.
 * Candidate Ranking: Rank candidates using AI-powered algorithms for better hiring decisions.
 * PDF Support: Upload resumes in PDF format for seamless processing.
