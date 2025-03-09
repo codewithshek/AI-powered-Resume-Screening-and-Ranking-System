@@ -6,8 +6,7 @@ A web-based application that leverages AI to screen and rank resumes based on jo
 
 # 📑 Project Document
 For a detailed overview of the project, you can refer to the project Document:
-
-AI-powered-Resume-Screening-and-Ranking-System.pdf
+[AI-powered Resume Screening and Ranking System - Project Document](AI-powered-Resume-Screening-and-Ranking-System.pdf)
 
 # 🚀 Features
 * Resume Screening: Automatically screen resumes based on the provided job description.
