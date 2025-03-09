@@ -31,20 +31,20 @@ github.com/codewithshek/AI-powered-Resume-Screening-and-Ranking-System/
  ```
 # 📌 Setup & Installation
 
-> 1. Clone the Repository
+1. Clone the Repository
 ```
 git clone https://github.com/codewithshek/AI-powered-Resume-Screening-and-Ranking-System.git
 cd AI-powered-Resume-Screening-and-Ranking-System
 ```
-> 2. Install Dependencies
+2. Install Dependencies
 ```
 pip install -r requirements.txt
 ```
-> 3. Run the Application
+3. Run the Application
 ```
 streamlit run Main.py
 ```
-> 4. Access the Application
+4. Access the Application
 ```
 Open your browser and navigate to the generated custom URL like http://localhost:8501/ to start using the AI-powered resume screening tool.
 ```
@@ -64,4 +64,4 @@ Open your browser and navigate to the generated custom URL like http://localhost
 # 🤝 Contributing
 Feel free to fork and submit pull requests. Any contributions are welcome!
 
-Made with ❤️ by D ABHISHEK YADAV as part of the IBM Cyber Security Internship
+Made with ❤️ by D ABHISHEK YADAV as part of AICTE- Internship on AI: Transformative Learning with TechSaksham – A joint CSR initiative of Microsoft & SAP, focusing on AI Technologies
