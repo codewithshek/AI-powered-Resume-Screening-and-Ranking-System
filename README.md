@@ -4,8 +4,8 @@ A web-based application that leverages AI to screen and rank resumes based on jo
 # 🖼️ Preview
 ![image](https://github.com/user-attachments/assets/1277d71c-9f92-4be0-accc-1f52c75efd9c)
 
-# 📑 Project Presentation
-For a detailed overview of the project, you can refer to the project presentation:
+# 📑 Project Document
+For a detailed overview of the project, you can refer to the project Document:
 
 AI-powered-Resume-Screening-and-Ranking-System-PPT.pptx
 
@@ -26,7 +26,7 @@ AI-powered-Resume-Screening-and-Ranking-System-PPT.pptx
 ```
 github.com/codewithshek/AI-powered-Resume-Screening-and-Ranking-System/
 ├── Readme.md
-├── AI-powered-Resume-Screening-and-Ranking-System-PPT.pptx
+├── AI-powered-Resume-Screening-and-Ranking-System-PPT.pdf
 └── Main.py
  ```
 # 📌 Setup & Installation
